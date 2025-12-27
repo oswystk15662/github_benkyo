@@ -1,0 +1,3 @@
+勝手にsubmoduleの仕様変更をしてみた
+実際にsubmoduleを使ってるわけではないので若干挙動が違うが、subomdule自体のcommitを進め、それを使っている状態。
+kinematiはpath_genによって進められる前のcommitを使っている
